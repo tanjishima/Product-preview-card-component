@@ -19,7 +19,7 @@ html{
     max-width: 100%;
 } 
 .container{
-    padding: 3rem 2rem;
+    padding: 5rem 2rem;
     max-width:375px;
     margin: auto;
 }
@@ -151,10 +151,11 @@ body{
         margin-top: 1.8rem;
     }
     .card-section{
-        height: 1000px;
+        height:100vh; 
         display: flex;
         align-items: center;
         justify-content: center;
     }
     
 }
+
